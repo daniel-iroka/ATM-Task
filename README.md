@@ -1,2 +1,2 @@
 # ATM-Task
-A simple ATM Program
+An ATM Program
